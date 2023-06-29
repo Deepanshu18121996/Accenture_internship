@@ -1,0 +1,2 @@
+# Accenture_internship
+The Accenture Virtual Internship in Data Analysis was an immersive experience where I honed my skills in data cleaning, modeling, manipulation, and analysis using Excel. I gained proficiency in creating insightful charts and visualizations in Excel, and effectively presented my findings through PowerPoint presentations. This internship equipped me with practical knowledge and hands-on experience in data analysis, preparing me for future roles in the field.
